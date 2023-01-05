@@ -2,8 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) & [React.js](https://reactjs.org/) transition between pages bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and styled with [Tailwind CSS](https://tailwindcss.com/). 
 
-![showcase](https://user-images.githubusercontent.com/54102609/210736031-30e7a9c5-5a20-4666-855f-1ae3d693695b.gif)
-
+<img alt='showcase' src='https://user-images.githubusercontent.com/54102609/210736031-30e7a9c5-5a20-4666-855f-1ae3d693695b.gif'>
 
 ## Getting Started!
 
